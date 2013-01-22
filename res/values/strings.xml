@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lap Timer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="runtime">Run (seconds)</string>
+    <string name="walktime">Walk (seconds)</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="zero">0</string>
+    <string name="blank"></string> 
+    <string name="started_at">Started at:</string>
+    <string name="number_laps">Number of laps:</string>
+
+</resources>
